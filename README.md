@@ -1,6 +1,6 @@
 ### Hello friend 👋
 
-I'm a **french developer** :fr: maintly but touches everything, servers, bots, community management, events, social networks and moore, my name is **Thomas** and I've got 21yo. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I love creating different websites. I am a fan of **Material Design** ([MDL](https://getmdl.io/), [MaterializeCSS](https://materializecss.com/)) and **Boostrap** ! I am learning to write better English and **VueJs**.
+I'm a **french developer** :fr: maintly but touches everything, servers, bots, community management, events, social networks and moore, my name is **Thomas** and I've got 21yo. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I love creating different websites. I am a fan of **Material Design** and **Boostrap** ! I am learning to write better English and **VueJs**.
 
 - Today, I work on **[Mr. Robøt](https://mrrobot.app/)**. This is a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.
 - I also created the project named **[Gate](https://gate.thomasbnt.fr/)**, this is a web page with simple shortcuts. 
