@@ -1,6 +1,6 @@
-### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="20px"> 
+### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="20px">, I'm Thomas ! 
 
-I'm a **french developer** :fr: maintly but touches everything, servers, bots, community management, events, social networks and moore, my name is **Thomas** and I've got 21yo. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I am a fan of **Material Design** and **Boostrap** ! I am learning to write better English and **VueJs**.
+I'm a **french developer** :fr: maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I am a fan of **Material Design** and **Boostrap** ! I am learning to write better English and **VueJs**.
 
 - Today, I work on **[Mr. Robøt](https://mrrobot.app/)**. This is a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.
 - I also created the project named **[Gate](https://gate.thomasbnt.fr/)**, this is a web page with simple shortcuts. 
