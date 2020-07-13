@@ -1,4 +1,4 @@
-### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="29px"> 
+### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="20px"> 
 
 I'm a **french developer** :fr: maintly but touches everything, servers, bots, community management, events, social networks and moore, my name is **Thomas** and I've got 21yo. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I am a fan of **Material Design** and **Boostrap** ! I am learning to write better English and **VueJs**.
 
