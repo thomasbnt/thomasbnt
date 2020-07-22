@@ -11,7 +11,7 @@ I'm a **french developer** :fr: maintly but touches everything, servers, bots, c
 - Email : contact[/at]thomasbnt[dot]fr , [🔑 PGP Key : 0x3430B1D7](https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1)
 
 
-#### ✉ — Main links
+#### 🎈 — Main links
 
 - [🙌 Thomasbnt.fr](https://thomasbnt.fr) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
 - [🔧 Thomasbnt.dev](https://thomasbnt.dev) • See my public resources and tests on GitHub. You could have browser issues on some pages.
