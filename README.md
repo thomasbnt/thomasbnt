@@ -16,9 +16,27 @@ I'm a **french developer** :fr: maintly but touches everything, servers, bots, c
 - [🙌 Thomasbnt.fr](https://thomasbnt.fr) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
 - [🔧 Thomasbnt.dev](https://thomasbnt.dev) • See my public resources and tests on GitHub. You could have browser issues on some pages.
 
+#### 🛠 — Skills
+ 
+<div align="center">  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="25" />  
+</div>  
+
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Support me on BMC](https://img.shields.io/badge/Follow%20me%20on-DEV-black?style=for-the-badge)](https://dev.to/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash%20%F0%9F%93%B8-black?style=for-the-badge)](https://unsplash.com/@thomasbnt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash%20%F0%9F%93%B8-black?style=for-the-badge)](https://unsplash.com/@thomasbnt)
 
 
 
