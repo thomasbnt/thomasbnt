@@ -6,9 +6,9 @@ I'm a **french developer** :fr: maintly but touches everything, servers, bots, c
 - I also created the project named **[Gate](https://gate.thomasbnt.fr/)**, this is a web page with simple shortcuts. 
 - Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !
 
-<a href="https://now-playing-profile.thomasbnt.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile.thomasbnt.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+|<a href="https://now-playing-profile.thomasbnt.vercel.app/now-playing?open"><img src="https://now-playing-profile.thomasbnt.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>|Probably listening music now. You can follow me on <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank">Spotify</a> 🎶|
+|---|---|
+ 
 
 #### ✉ — For contact
 
