@@ -20,19 +20,22 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 - [🙌 Thomasbnt.fr](https://thomasbnt.fr) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
 - [🔧 Thomasbnt.dev](https://thomasbnt.dev) • See my public resources and tests on GitHub. You could have browser issues on some pages.
 
-#### 🛠 — Skills
+#### 🛠 — Skills and tools
  
 <div align="">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="25" /> 
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25" /> 
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /> 
+<img style="margin: 10px" src="https://devicon.dev/devicon.git/icons/apache/apache-original.svg" alt="Apache" height="25" />
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="25" />
+<img style="margin: 10px" src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg" alt="Debian" height="25" />
+<img style="margin: 10px" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" alt="Gimp" height="25" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="25" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="25" />      
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="25" />  
