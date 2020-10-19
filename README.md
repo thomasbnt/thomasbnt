@@ -44,3 +44,14 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash%20%F0%9F%93%B8-black?style=for-the-badge)](https://unsplash.com/@thomasbnt)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/?username=thomasbnt&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbnt&layout=compact&hide_border=true"/>
+    </td>
+  </tr>
+</table>
