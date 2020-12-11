@@ -17,6 +17,7 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
      </tr>
 </table>
 
+[![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
 
 #### ✉ — For contact
 
