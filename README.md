@@ -1,3 +1,12 @@
+<!--
+
+   Hello friend
+   If you copy my README GitHub profile, keep this note for credits mentions :D
+    — Thomas Bnt (https://thomasbnt.fr)
+
+-->
+
+
 ### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">, I'm [Thomas](https://thomasbnt.fr) ! 
 
 I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I’m mostly on [Dev.to](https://dev.to/thomasbnt), huge fan of this community. I’m addict to Material Design and I’m learning how to write better English as well as VueJs. ☕
