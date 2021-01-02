@@ -2,7 +2,7 @@
 
    Hello friend
    If you copy my README GitHub profile, keep this note for credits mentions :D
-    — Thomas Bnt (https://thomasbnt.fr)
+    — Thomas Bnt (https://thomasbnt.dev)
 
 -->
 
@@ -28,15 +28,11 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 
 [![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
 
-#### ✉ — For contact
+#### 🎈 — More
 
 - Email : contact[/at]thomasbnt[dot]fr , [🔑 PGP Key : 0x3430B1D7](https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1)
+- [🙌 Thomasbnt.dev](https://thomasbnt.dev) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
 
-
-#### 🎈 — Main links
-
-- [🙌 Thomasbnt.fr](https://thomasbnt.fr) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
-- [🔧 Thomasbnt.dev](https://thomasbnt.dev) • See my public resources and tests on GitHub. You could have browser issues on some pages.
 
 #### 🛠 — Skills and tools
 
