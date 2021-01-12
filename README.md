@@ -57,21 +57,17 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 <code><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="25" /></code>
 <code><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="25" /></code>
 
-
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash%20%F0%9F%93%B8-black?style=for-the-badge)](https://unsplash.com/@thomasbnt)
 
 <details>
-<summary>📈 — My GitHub Stats</summary>
+<summary>📈 — More stats and informations about me</summary>
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/?username=thomasbnt&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbnt&layout=compact&hide_border=true"/>
-    </td>
+      <img src="https://metrics.lecoq.io/thomasbnt?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&pagespeed=1&posts=1&tweets=1&followup=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&tweets.limit=2&config.timezone=Europe%2FParis"/>
+     </td>
   </tr>
 </table>
 </details>
