@@ -14,6 +14,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_username: New dev.to post
           feed_list: "https://dev.to/feed/thomasbnt"
           max_post_count: 7
