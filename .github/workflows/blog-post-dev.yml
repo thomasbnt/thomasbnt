@@ -15,5 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           committer_username: New dev.to post
+          committer_email: admin+ghactionsdevtopost@thomasbnt.fr
           feed_list: "https://dev.to/feed/thomasbnt"
           max_post_count: 7
