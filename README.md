@@ -9,7 +9,7 @@
 
 ### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">, I'm [Thomas](https://thomasbnt.dev) ! 
 
-I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I’m mostly on [Dev.to](https://dev.to/thomasbnt), huge fan of this community. I’m addict to Material Design and I’m learning how to write better English as well as VueJs. ☕
+I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [Dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I’m mostly on [DEV](https://dev.to/thomasbnt), huge fan of this community. I’m addict to Material Design and I’m learning how to write better English as well as VueJs. ☕
 
 - Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.
 - I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts. 
@@ -50,7 +50,7 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
 
-####   📝 — Posts from [my DEV profile](https://dev.to/thomasbnt)
+####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
 - [Custom domain for your images with ShareX](https://dev.to/thomasbnt/custom-domain-for-your-images-with-sharex-3bmi)
