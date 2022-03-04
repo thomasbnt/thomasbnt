@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   devcard:
@@ -16,3 +16,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_message: "Daildy.dev Card updating"
