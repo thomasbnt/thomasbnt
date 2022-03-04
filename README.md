@@ -17,7 +17,6 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
           <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
        </ul>
-       </ul>
    </td>
    <td align="center">
       <a href="https://app.daily.dev/Thomasbnt"><img src="https://github.com/thomasbnt/thomasbnt/blob/me/devcard.svg" width="400" alt="Thomas Bnt's Dev Card"/></a>
