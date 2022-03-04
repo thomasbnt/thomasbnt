@@ -12,22 +12,20 @@
      <h1>Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
 I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [dev.to](https://dev.to/thomasbnt), I lovin soo much this community. I’m mostly on [DEV](https://dev.to/thomasbnt), huge fan of this community. I’m addict to Material Design and I’m learning how to write better English as well as VueJs. ☕
+       <ul>
+          <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.</li>
+          <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
+          <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
+       </ul>
+       </ul>
 
-- Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.
-- I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts. 
-- Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !
+
    </td>
    <td align="center">
       <a href="https://app.daily.dev/Thomasbnt"><img src="https://github.com/thomasbnt/thomasbnt/blob/me/devcard.svg" width="400" alt="Thomas Bnt's Dev Card"/></a>
-
    </td>
-     </tr>
-</table>
-
-
-
-<table align="center">
-  <tr>
+  </tr>
+   <tr>
     <td align="center">
      <a href="https://np.thomasbnt.dev/now-playing?open"><img src="https://np.thomasbnt.dev/now-playing" width="256" height="64" alt="Now Playing"></a>
    </td>
@@ -35,6 +33,12 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
    Probably listening music now. You can follow me on <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank">Spotify</a> 🎶
    </td>
      </tr>
+</table>
+
+
+
+<table align="center">
+  
 </table>
 
 [![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
