@@ -18,8 +18,6 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
           <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
        </ul>
        </ul>
-
-
    </td>
    <td align="center">
       <a href="https://app.daily.dev/Thomasbnt"><img src="https://github.com/thomasbnt/thomasbnt/blob/me/devcard.svg" width="400" alt="Thomas Bnt's Dev Card"/></a>
@@ -33,12 +31,6 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
    Probably listening music now. You can follow me on <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank">Spotify</a> 🎶
    </td>
      </tr>
-</table>
-
-
-
-<table align="center">
-  
 </table>
 
 [![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
