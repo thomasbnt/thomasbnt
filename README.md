@@ -19,25 +19,19 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
        </ul>
    </td>
    <td align="center">
-      <a href="https://app.daily.dev/Thomasbnt"><img src="https://github.com/thomasbnt/thomasbnt/blob/me/devcard.svg" width="400" alt="Thomas Bnt's Dev Card"/></a>
+      Probably listening music now. You can follow me on <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank">Spotify</a> 🎶
+       <a href="https://np.thomasbnt.dev/now-playing?open"><img src="https://np.thomasbnt.dev/now-playing" width="256" height="64" alt="Now Playing"></a>
+      <a href="https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW"><img src="https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Last.Favorited"></a>
+      <a href="https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq"><img src="https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Old.Love"></a>
    </td>
   </tr>
-   <tr>
-    <td align="center">
-     <a href="https://np.thomasbnt.dev/now-playing?open"><img src="https://np.thomasbnt.dev/now-playing" width="256" height="64" alt="Now Playing"></a>
-   </td>
-   <td align="center">
-   Probably listening music now. You can follow me on <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank">Spotify</a> 🎶
-   </td>
-     </tr>
 </table>
 
-[![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
 
 #### 🎈 — More
 
 - Email : contact+github[/at]thomasbnt[dot]fr , [🔑 PGP Key : 0x3430B1D7](https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1)
-- [🙌 Thomasbnt.dev](https://thomasbnt.dev) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
+- [Thomasbnt.dev](https://thomasbnt.dev) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
 
 
 #### 💻 — Skills and Tools
