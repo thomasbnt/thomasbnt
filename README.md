@@ -53,13 +53,13 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 ####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Perspective API](https://dev.to/thomasbnt/perspective-api-20al)
 - [MDN has changed its design. What do you think?](https://dev.to/thomasbnt/mdn-has-changed-its-design-what-do-you-think-58o3)
 - [Custom domain for your images with ShareX](https://dev.to/thomasbnt/custom-domain-for-your-images-with-sharex-3bmi)
 - [No Toxic Discussions](https://dev.to/thomasbnt/no-toxic-discussions-38h3)
 - [Another year of contributing to Hacktoberfest !](https://dev.to/thomasbnt/another-year-of-contributing-to-hacktoberfest-13p7)
 - [Contribute to the Awesome Web Monetization on Hacktoberfest ! 🥳🌈](https://dev.to/thomasbnt/contribute-to-the-awesome-web-monetization-on-hacktoberfest-3dej)
 - [Hacktoberfest 2021 is coming !](https://dev.to/thomasbnt/hacktoberfest-2021-is-coming-20f0)
-- [How to change the background login image on Manjaro](https://dev.to/thomasbnt/how-to-change-the-background-login-image-on-manjaro-2b96)
 <!-- BLOG-POST-LIST:END -->
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
