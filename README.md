@@ -11,7 +11,7 @@
     <td>
      <h1>Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
-I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [DEV](https://dev.to/thomasbnt), huge fan of this community. I appreciate Material Design and I’m learning how to write better English as well as VueJs. ☕
+I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community** and **I'm a mod of some cools #tags**. I appreciate Material Design and I’m learning how to write better English as well as VueJs. ☕
        <ul>
           <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.</li>
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
@@ -32,6 +32,7 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 
 - Email : contact+github[/at]thomasbnt[dot]fr , [🔑 PGP Key : 0x3430B1D7](https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1)
 - [Thomasbnt.dev](https://thomasbnt.dev) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
+- [My Polywork](https://www.polywork.com/thomasbnt)
 
 
 #### 💻 — Skills and Tools
