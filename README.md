@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-     <h1>Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
+     <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
 I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community** and **I'm a mod of some cools #tags**. I appreciate Material Design and I’m learning how to write better English as well as VueJs. ☕
        <ul>
