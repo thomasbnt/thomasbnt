@@ -54,13 +54,13 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 ####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2m70)
 - [I&#39;ve got a Raspberry Pi 4 B, what can I do with it?](https://dev.to/thomasbnt/ive-got-a-raspberry-pi-4-b-what-can-i-do-with-it-3fh5)
 - [Improve the accessibility of your website](https://dev.to/thomasbnt/improve-the-accessibility-of-your-website-53de)
 - [Perspective API](https://dev.to/thomasbnt/perspective-api-20al)
 - [MDN has changed its design. What do you think?](https://dev.to/thomasbnt/mdn-has-changed-its-design-what-do-you-think-58o3)
 - [Custom domain for your images with ShareX](https://dev.to/thomasbnt/custom-domain-for-your-images-with-sharex-3bmi)
 - [No Toxic Discussions](https://dev.to/thomasbnt/no-toxic-discussions-38h3)
-- [Another year of contributing to Hacktoberfest !](https://dev.to/thomasbnt/another-year-of-contributing-to-hacktoberfest-13p7)
 <!-- BLOG-POST-LIST:END -->
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
