@@ -11,9 +11,10 @@
     <td>
      <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
-I'm a **french developer** maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community** and **I'm a mod of some cools #tags**. I appreciate Material Design and I’m learning how to write better English as well as VueJs. ☕
+I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, 
+and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English as well as VueJs. ☕
        <ul>
-          <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a french Discord bot for automated moderating that removes insults and spam. I have been maintaining it since 2017.</li>
+          <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I have been maintaining it since 2017.</li>
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
           <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
        </ul>
@@ -67,3 +68,13 @@ I'm a **french developer** maintly but touches everything, servers, bots, commun
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash%20%F0%9F%93%B8-black?style=for-the-badge)](https://unsplash.com/@thomasbnt) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
+
+<details>
+<summary>📊 — More stats about me</summary>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+</details>
