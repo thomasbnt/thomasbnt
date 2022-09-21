@@ -57,13 +57,13 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 ####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2022 is coming !](https://dev.to/thomasbnt/hacktoberfest-2022-is-coming--101k)
 - [Nice tool to moderate bad posts on a Forem](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
 - [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2m70)
 - [I&#39;ve got a Raspberry Pi 4 B, what can I do with it?](https://dev.to/thomasbnt/ive-got-a-raspberry-pi-4-b-what-can-i-do-with-it-3fh5)
 - [Improve the accessibility of your website](https://dev.to/thomasbnt/improve-the-accessibility-of-your-website-53de)
 - [Perspective API](https://dev.to/thomasbnt/perspective-api-20al)
 - [MDN has changed its design. What do you think?](https://dev.to/thomasbnt/mdn-has-changed-its-design-what-do-you-think-58o3)
-- [Custom domain for your images with ShareX](https://dev.to/thomasbnt/custom-domain-for-your-images-with-sharex-3bmi)
 <!-- BLOG-POST-LIST:END -->
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
