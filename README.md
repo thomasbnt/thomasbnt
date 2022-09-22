@@ -1,7 +1,7 @@
 <!--
 
    Hello friend
-   If you copy my README GitHub profile, keep this note for credits mentions :D
+   If you copy my README GitHub profile, keep this note for credits mentions.
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
@@ -35,24 +35,21 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 
 #### 💻 — Skills and Tools
 
-<p align="left">
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/w3c.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" />    
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/yarn.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />  
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/debian.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/raspberry_pi.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" />
-</p>
+![w3c](assets/icons/w3c.svg)
+![html5](assets/icons/html5.svg)
+![css3](assets/icons/css3.svg)
+![sass](assets/icons/sass.svg)
+![javascript](assets/icons/javascript.svg)
+![vuejs](assets/icons/vue.svg)
+![nodejs](assets/icons/nodejs.svg)
+![npm](assets/icons/npm.svg)
+![yarn](assets/icons/yarn.svg)
+![MongoDB](assets/icons/mongodb.svg)
+![linux](assets/icons/linux.svg)
+![debian](assets/icons/debian.svg)
+![ubuntu](assets/icons/ubuntu.svg)
+![windows](assets/icons/windows.svg)
+
 
 ####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
