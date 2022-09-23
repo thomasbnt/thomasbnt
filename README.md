@@ -63,7 +63,6 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 - [I&#39;ve got a Raspberry Pi 4 B, what can I do with it?](https://dev.to/thomasbnt/ive-got-a-raspberry-pi-4-b-what-can-i-do-with-it-3fh5)
 - [Improve the accessibility of your website](https://dev.to/thomasbnt/improve-the-accessibility-of-your-website-53de)
 - [Perspective API](https://dev.to/thomasbnt/perspective-api-20al)
-- [MDN has changed its design. What do you think?](https://dev.to/thomasbnt/mdn-has-changed-its-design-what-do-you-think-58o3)
 <!-- BLOG-POST-LIST:END -->
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
 
