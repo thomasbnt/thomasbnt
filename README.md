@@ -56,6 +56,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 ####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Intellij to VSCode by keeping these shortened keys](https://dev.to/thomasbnt/moving-intellij-to-vscode-by-keeping-these-shortened-keys-52m6)
 - [Hacktoberfest 2022 is coming !](https://dev.to/thomasbnt/hacktoberfest-2022-is-coming--101k)
 - [Nice tool to moderate bad posts on a Forem](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
 - [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2m70)
