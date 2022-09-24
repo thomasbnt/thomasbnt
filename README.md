@@ -35,7 +35,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 
 #### 💻 — Skills and Tools
 
-![w3c](assets/icons/w3c.svg)
+<!-- ![w3c](assets/icons/w3c.svg)
 ![html5](assets/icons/html5.svg)
 ![css3](assets/icons/css3.svg)
 ![sass](assets/icons/sass.svg)
@@ -50,7 +50,10 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 ![Raspberry Pi](assets/icons/raspberrypi.svg)
 ![debian](assets/icons/debian.svg)
 ![ubuntu](assets/icons/ubuntu.svg)
-![windows](assets/icons/windows.svg)
+![windows](assets/icons/windows.svg) -->
+
+
+![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vuejs,vite,express,netlify,mysql,mongodb,prisma,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=13)
 
 
 ####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
