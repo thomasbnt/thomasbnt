@@ -23,7 +23,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 </table>
 
 
-[![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xUATnkTWt9OSilK4E5eCW) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
+[![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/45tUYqAenlaeBQV5PSBkfp) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
 
 
 #### 🎈 — More
