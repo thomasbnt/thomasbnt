@@ -29,7 +29,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
           <a href="https://www.polywork.com/thomasbnt" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Polywork-%2340BE88.svg?&style=for-the-badge&logo=polyworkn&logoColor=white" alt="My Polywork" title="My Polywork"/>
           </a>
-          <a href="mailto:contact+github@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
+          <a href="mailto:contact+github+from+readme@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail" title="Contact me via e-mail"/>
           </a>
           <a href="https://dev.to/thomasbnt" target="_blank" rel="noopener noreferrer">
