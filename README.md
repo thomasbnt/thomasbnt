@@ -19,14 +19,11 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
           <li>Occasionally, I help to Open Source projects on French translations.</li> 
        </ul>
-       <div style="justify-content: center;">
-          <a href="https://open.spotify.com/playlist/45tUYqAenlaeBQV5PSBkfp" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Last.Favorited"/>
-          </a>
+       <div>
           <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
             <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website"/>
           </a>
-          <a href="https://www.linkedin.com/in/thomasbnt/" target="_blank" rel="noopener noreferrer">
+           <a href="https://www.linkedin.com/in/thomasbnt/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
           </a>
           <a href="https://www.polywork.com/thomasbnt" target="_blank" rel="noopener noreferrer">
@@ -35,11 +32,31 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
           <a href="mailto:contact+github@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail"/>
           </a>
+          <a href="https://dev.to/thomasbnt" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto" alt="My dev.to profile"/>
+          </a>
+          <a href="https://twitter.com/thomasbnt_" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&labelColor=white&logo=Twitter&style=for-the-badge" alt="My Twitter profile"/>
+          </a>
+           <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify profile"/>
+          </a>
+          <a href="https://unsplash.com/@thomasbnt" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Photos-%231D1D1D?style=for-the-badge&logo=unsplash&logoColor=white" alt="My Unsplash profile"/>
+          </a>
        </div>
-       <small style="justify-content: center; text-align:center;">
-          `contact+github[/at]thomasbnt[dot]fr`
-          <a href="https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1" download>🔑 PGP Key : 0x3430B1D7</a>
-       </small>
+       <hr>
+       <details>
+          <summary>PGP Security for email</summary>
+          <ul>
+             <li>
+               <code>contact+github[/at]thomasbnt[dot]fr</code>
+             </li>
+             <li>
+               <a href="https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1" download>PGP Key : 0x3430B1D7</a>
+             </li>
+          </ul>
+       </details>
     </td>
    </tr>
 </table>
@@ -79,9 +96,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 - [Improve the accessibility of your website](https://dev.to/thomasbnt/improve-the-accessibility-of-your-website-53de)
 <!-- BLOG-POST-LIST:END -->
 
-## 🍃 — Keep up to date on my adventures, follow me everywhere
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash-black?style=for-the-badge&logo=unsplash&color=white&logoColor=black&labelColor=white)](https://unsplash.com/@thomasbnt) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
+ [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
 
 [![@Thomasbnt's Holopin board](https://holopin.io/api/user/board?user=thomasbnt)](https://holopin.io/@thomasbnt)
 
