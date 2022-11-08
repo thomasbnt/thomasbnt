@@ -38,12 +38,6 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
           <a href="https://twitter.com/thomasbnt_" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&labelColor=white&logo=Twitter&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
           </a>
-           <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify profile" alt="My Spotify profile"/>
-          </a>
-          <a href="https://unsplash.com/@thomasbnt" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Photos-%231D1D1D?style=for-the-badge&logo=unsplash&logoColor=white" alt="My Unsplash profile" alt="My Unsplash profile"/>
-          </a>
        </div>
        <hr>
        <details>
@@ -77,7 +71,9 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 - [Improve the accessibility of your website](https://dev.to/thomasbnt/improve-the-accessibility-of-your-website-53de)
 <!-- BLOG-POST-LIST:END -->
 
- [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
+### 🌱 — Want more ?        
+
+ [![My Spotify profile](https://img.shields.io/badge/Cool%20musics%20here-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s) [![My Unsplash profile](https://img.shields.io/badge/My%20photos%20on%20Unsplash-%231D1D1D?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@thomasbnt) [![GitHub Sponsors](https://img.shields.io/badge/Want%20to%20sponsor%20me%20on%20GitHub%20%3F-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
 
 [![@Thomasbnt's Holopin board](https://holopin.io/api/user/board?user=thomasbnt)](https://holopin.io/@thomasbnt)
 
