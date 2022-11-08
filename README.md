@@ -12,28 +12,39 @@
      <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
 I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, 
-and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English as well as VueJs. ☕
+and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English as well as **Vue.js** and **Nuxt.js**. ☕
        <ul>
-          <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I have been maintaining it since 2017.</li>
-          <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
+          <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
           <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
+          <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
+          <li>Occasionally, I help to Open Source projects on French translations.</li> 
        </ul>
-   </td>
-  </tr>
+       <div style="justify-content: center;">
+          <a href="https://open.spotify.com/playlist/45tUYqAenlaeBQV5PSBkfp" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Last.Favorited"/>
+          </a>
+          <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
+            <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website"/>
+          </a>
+          <a href="https://www.linkedin.com/in/thomasbnt/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+          </a>
+          <a href="https://www.polywork.com/thomasbnt" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Polywork-%2340BE88.svg?&style=for-the-badge&logo=polyworkn&logoColor=white" alt="My Polywork"/>
+          </a>
+          <a href="mailto:contact+github@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail"/>
+          </a>
+       </div>
+       <small style="justify-content: center; text-align:center;">
+          `contact+github[/at]thomasbnt[dot]fr`
+          <a href="https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1" download>🔑 PGP Key : 0x3430B1D7</a>
+       </small>
+    </td>
+   </tr>
 </table>
 
-
-[![Last.Favorited](https://img.shields.io/badge/Last.Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/45tUYqAenlaeBQV5PSBkfp) [![Old.Love](https://img.shields.io/badge/Old.Love-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58Er0NTDmf1N095ft86XBq)
-
-
-#### 🎈 — More
-
-- Email : `contact+github[/at]thomasbnt[dot]fr` , [🔑 PGP Key : 0x3430B1D7](https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1)
-- [Thomasbnt.dev](https://thomasbnt.dev) • Personal website with blog and full description about me and what I like. You'll find a lot of things on it but nothing to keep you for an eternity.
-- [My Polywork](https://www.polywork.com/thomasbnt)
-
-
-#### 💻 — Skills and Tools
+## 💻 — Skills and Tools
 
 <!-- ![w3c](assets/icons/w3c.svg)
 ![html5](assets/icons/html5.svg)
@@ -53,10 +64,10 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 ![windows](assets/icons/windows.svg) -->
 
 
-![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vuejs,vite,express,netlify,mysql,mongodb,prisma,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=13)
+![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vuejs,vite,express,netlify,mysql,mongodb,prisma,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=11)
 
 
-####   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
+##   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
 - [Integrate Last.fm API with Vue.js](https://dev.to/thomasbnt/integrate-lastfm-api-with-vuejs-3pjl)
@@ -67,8 +78,8 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 - [I&#39;ve got a Raspberry Pi 4 B, what can I do with it?](https://dev.to/thomasbnt/ive-got-a-raspberry-pi-4-b-what-can-i-do-with-it-3fh5)
 - [Improve the accessibility of your website](https://dev.to/thomasbnt/improve-the-accessibility-of-your-website-53de)
 <!-- BLOG-POST-LIST:END -->
-#### 🍃 — Keep up to date on my adventures, follow me everywhere
 
+## 🍃 — Keep up to date on my adventures, follow me everywhere
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/thomasbnt) [![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash-black?style=for-the-badge&logo=unsplash&color=white&logoColor=black&labelColor=white)](https://unsplash.com/@thomasbnt) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
 
