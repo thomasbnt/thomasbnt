@@ -21,28 +21,28 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
        </ul>
        <div>
           <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website"/>
+            <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website" title="My website"/>
           </a>
            <a href="https://www.linkedin.com/in/thomasbnt/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+            <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" title="My LinkedIn"/>
           </a>
           <a href="https://www.polywork.com/thomasbnt" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Polywork-%2340BE88.svg?&style=for-the-badge&logo=polyworkn&logoColor=white" alt="My Polywork"/>
+            <img src="https://img.shields.io/badge/Polywork-%2340BE88.svg?&style=for-the-badge&logo=polyworkn&logoColor=white" alt="My Polywork" title="My Polywork"/>
           </a>
           <a href="mailto:contact+github@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail"/>
+            <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail" title="Contact me via e-mail"/>
           </a>
           <a href="https://dev.to/thomasbnt" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto" alt="My dev.to profile"/>
+            <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto" alt="My dev.to profile" title="My dev.to profile"/>
           </a>
           <a href="https://twitter.com/thomasbnt_" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&labelColor=white&logo=Twitter&style=for-the-badge" alt="My Twitter profile"/>
+            <img src="https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&labelColor=white&logo=Twitter&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
           </a>
            <a href="https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify profile"/>
+            <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify profile" alt="My Spotify profile"/>
           </a>
           <a href="https://unsplash.com/@thomasbnt" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Photos-%231D1D1D?style=for-the-badge&logo=unsplash&logoColor=white" alt="My Unsplash profile"/>
+            <img src="https://img.shields.io/badge/Photos-%231D1D1D?style=for-the-badge&logo=unsplash&logoColor=white" alt="My Unsplash profile" alt="My Unsplash profile"/>
           </a>
        </div>
        <hr>
