@@ -14,7 +14,7 @@
 I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, 
 and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English as well as **Vue.js** and **Nuxt.js**. ☕
        <ul>
-          <li>Today, I work on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
+          <li>Today, I work in my free time on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
           <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
           <li>Occasionally, I help to Open Source projects on French translations.</li> 
