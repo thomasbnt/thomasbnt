@@ -71,7 +71,14 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 - [Nice tool to moderate bad posts on a Forem](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
 <!-- BLOG-POST-LIST:END -->
 
-### 🌱 — Want more ?        
+### 🌟 — Awesome cool Gist stuff
+
+- [My `.bash_aliases`](https://gist.github.com/thomasbnt/93e025d5a6437b3f9a0b1b0b9779e19b)
+- [MYSQL Cheatsheet](https://gist.github.com/thomasbnt/f02b6d3fea2c9efc76fd0bed52ce5202)
+- [Complete Discord rules in French language](https://gist.github.com/thomasbnt/93012ba5f58351684cc0214a9f6b537a)
+- [Code colors Discord.js](https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812)
+
+### 🌱 — Want more ?
 
  [![My Spotify profile](https://img.shields.io/badge/Cool%20musics%20here-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/w522c32cigrl3ga1ia2ggru7s) [![My Unsplash profile](https://img.shields.io/badge/My%20photos%20on%20Unsplash-%231D1D1D?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@thomasbnt) [![GitHub Sponsors](https://img.shields.io/badge/Want%20to%20sponsor%20me%20on%20GitHub%20%3F-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbnt/?via=thomasbnt)
 
