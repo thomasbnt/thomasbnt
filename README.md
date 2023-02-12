@@ -5,10 +5,15 @@
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
-
-<table>
-  <tr>
-    <td>
+<a href="https://api.daily.dev/get?r=thomasbnt" target="_blank" align="right">
+       <img
+         width="256"
+         align="right"
+         alt="Thomas Bnt's Daily Dev card"
+         src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/devcard/devcard.svg"
+       />
+     </a>
+<div align="left">
      <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
 I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, 
@@ -19,6 +24,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
           <li>Occasionally, I help to Open Source projects on French translations.</li> 
        </ul>
+       </div>
        <div>
           <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
             <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website" title="My website"/>
@@ -39,7 +45,6 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
             <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
           </a>
        </div>
-       <hr>
        <details>
           <summary>PGP Security for email</summary>
           <ul>
@@ -51,19 +56,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
              </li>
           </ul>
        </details>
-    </td>
-     <td>
-     <a href="https://api.daily.dev/get?r=thomasbnt" target="_blank">
-          <img
-            width="256"
-            align="right"
-            alt="Thomas Bnt's Daily Dev card"
-            src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/devcard/devcard.svg"
-          />
-        </a>
-     </td>
-   </tr>
-</table>
+
 
 ## 💻 — Skills and Tools
 
