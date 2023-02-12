@@ -52,6 +52,16 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
           </ul>
        </details>
     </td>
+     <td>
+     <a href="https://api.daily.dev/get?r=thomasbnt" target="_blank">
+          <img
+            width="256"
+            align="right"
+            alt="Thomas Bnt's Daily Dev card"
+            src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/devcard/devcard.svg"
+          />
+        </a>
+     </td>
    </tr>
 </table>
 
