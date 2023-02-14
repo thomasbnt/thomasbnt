@@ -42,7 +42,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
             <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto" alt="My dev.to profile" title="My dev.to profile"/>
           </a>
           <a href="https://twitter.com/thomasbnt_" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
+            <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
           </a>
        </div>
        <details>
