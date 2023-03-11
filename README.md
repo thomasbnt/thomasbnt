@@ -5,7 +5,7 @@
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
-<a href="https://api.daily.dev/get?r=thomasbnt" target="_blank" align="right">
+<a href="https://app.daily.dev/thomasbnt" target="_blank" align="right">
        <img
          width="256"
          align="right"
