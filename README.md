@@ -52,7 +52,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
                <code>contact+github[/at]thomasbnt[dot]fr</code>
              </li>
              <li>
-               <a href="https://thomasbnt.keybase.pub/keys/publickey_contact%40thomasbnt_fr.asc?dl=1" download>PGP Key : 0x3430B1D7</a>
+               <a href="https://thomasbnt.dev/keys/publickey_contact%40thomasbnt_fr.asc" download>PGP Key : 0x3430B1D7</a>
              </li>
           </ul>
        </details>
