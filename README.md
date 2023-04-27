@@ -65,13 +65,13 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 ##   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your nuxt website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
 - [World Wide Web](https://dev.to/thomasbnt/world-wide-web-2jbl)
 - [Google I/O 2023 announced !](https://dev.to/thomasbnt/google-io-2023-announced--2n9i)
 - [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 - [Removing Google Analytics does it have an impact on the ranking?](https://dev.to/thomasbnt/removing-google-analytics-does-it-have-an-impact-on-the-ranking-4de)
 - [How to test DEV API ?](https://dev.to/thomasbnt/how-to-test-dev-api--p13)
 - [When can you declare yourself a Full-stack Dev?](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
-- [Integrate Last.fm API with Vue.js](https://dev.to/thomasbnt/integrate-lastfm-api-with-vuejs-3pjl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 — Awesome cool Gist stuff
