@@ -5,14 +5,14 @@
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
-<a href="https://app.daily.dev/thomasbnt" target="_blank" align="right">
+<!--<a href="https://app.daily.dev/thomasbnt" target="_blank" align="right">
        <img
          width="256"
          align="right"
          alt="Thomas Bnt's Daily Dev card"
          src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/devcard/devcard.svg"
        />
-     </a>
+     </a>-->
 <div align="left">
      <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
 
