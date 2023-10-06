@@ -66,7 +66,7 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
 
 <!-- BLOG-POST-LIST:START -->
 - [Share us your project for Hacktoberfest 2023!](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2023-3phg)
-- [Create your nuxt website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
+- [Create your nuxt v3 website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
 - [World Wide Web](https://dev.to/thomasbnt/world-wide-web-2jbl)
 - [Google I/O 2023 announced !](https://dev.to/thomasbnt/google-io-2023-announced--2n9i)
 - [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
