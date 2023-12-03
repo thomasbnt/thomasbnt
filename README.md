@@ -5,8 +5,6 @@
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
-
-<!-- tableau avec left et right -->
 <table>
   <tr>
     <td align="left" valign="top">
@@ -16,7 +14,7 @@
           <li>Today, I work in my free time on <a href="https://mrrobot.app">Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" alt="Mr. Robot logo"/></a>, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
           <li>Really loved the Web Monetization, then <a href="https://github.com/thomasbnt/awesome-web-monetization">Awesome Web Monetization</a> is out! You can see modules/packages, documentations, links and more about that !</li>
           <li>I also created the project named <a href="https://gate.thomasbnt.dev/">Gate</a>, this is a web page with simple shortcuts.</li>
-          <li>Occasionally, I help to Open Source projects on French translations.</li> 
+          <li>Occasionally, I help to Open Source projects on French translations like on <a href="https://astro.badg.es/contributor/thomasbnt/">Astro docs</a>.</li> 
        </ul>
 <div>
  <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
@@ -38,6 +36,7 @@
    <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
  </a>
 </div>
+<br>
 <details>
  <summary>PGP Security for email</summary>
  <ul>
@@ -50,12 +49,9 @@
  </ul>
 </details>
     </td>
-    <td align="right" valign="top">
-      <a href="https://astro.badg.es/contributor/thomasbnt/" align="right">
-            <img src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="@thomasbnt Astro contributions" width="260" height="156">
-        </a>
-    </td>
-  </tr>
+    <!--<td align="right" valign="top">
+      
+  </tr>-->
 </table>
 
 
