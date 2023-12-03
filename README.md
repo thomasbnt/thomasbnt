@@ -5,23 +5,19 @@
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
-<div align="left">
-     <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
-   
-I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, 
-and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English and **Nuxt**. ☕
-       <ul>
-          <li>Today, I work in my free time on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
-          <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
-          <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
+
+<!-- tableau avec left et right -->
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
+      <p>I'm a <strong>french developer</strong> mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on <strong><a href="https://dev.to/thomasbnt">DEV</a></strong>, huge <strong>fan of this community</strong>, and <strong>I'm a mod of some cools #tags</strong>, and I’m learning how to write better English and <strong>Nuxt</strong>. ☕</p>
+      <ul>
+          <li>Today, I work in my free time on <a href="https://mrrobot.app">Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" alt="Mr. Robot logo"/></a>, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
+          <li>Really loved the Web Monetization, then <a href="https://github.com/thomasbnt/awesome-web-monetization">Awesome Web Monetization</a> is out! You can see modules/packages, documentations, links and more about that !</li>
+          <li>I also created the project named <a href="https://gate.thomasbnt.dev/">Gate</a>, this is a web page with simple shortcuts.</li>
           <li>Occasionally, I help to Open Source projects on French translations.</li> 
        </ul>
-</div>
-
-<a href="https://astro.badg.es/contributor/thomasbnt/" align="right">
-<img src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="@thomasbnt Astro contributions" width="260" height="156">
-</a>
-       
 <div>
  <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
    <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website" title="My website"/>
@@ -53,6 +49,15 @@ and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m l
     </li>
  </ul>
 </details>
+    </td>
+    <td align="right" valign="top">
+      <a href="https://astro.badg.es/contributor/thomasbnt/" align="right">
+            <img src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="@thomasbnt Astro contributions" width="260" height="156">
+        </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 💻 — Skills and Tools
