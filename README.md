@@ -5,57 +5,54 @@
     — Thomas Bnt (https://thomasbnt.dev)
 
 -->
-<!--<a href="https://app.daily.dev/thomasbnt" target="_blank" align="right">
-       <img
-         width="256"
-         align="right"
-         alt="Thomas Bnt's Daily Dev card"
-         src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/devcard/devcard.svg"
-       />
-     </a>-->
 <div align="left">
      <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
-
+   
 I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, 
-and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English as well as **Vue.js** and **Nuxt.js**. ☕
+and **I'm a mod of some cools #tags**. I appreciate Material Design, and I’m learning how to write better English and **Nuxt**. ☕
        <ul>
           <li>Today, I work in my free time on **[Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" width="13px">](https://mrrobot.app/)**, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
           <li>Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !</li>
           <li>I also created the project named **[Gate](https://gate.thomasbnt.dev/)**, this is a web page with simple shortcuts.</li>
           <li>Occasionally, I help to Open Source projects on French translations.</li> 
        </ul>
-       </div>
-       <div>
-          <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website" title="My website"/>
-          </a>
-           <a href="https://www.linkedin.com/in/thomasbnt/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" title="My LinkedIn"/>
-          </a>
-          <a href="https://www.polywork.com/thomasbnt" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Polywork-%2340BE88.svg?&style=for-the-badge&logo=polyworkn&logoColor=white" alt="My Polywork" title="My Polywork"/>
-          </a>
-          <a href="mailto:contact+github+from+readme@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail" title="Contact me via e-mail"/>
-          </a>
-          <a href="https://dev.to/thomasbnt" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto" alt="My dev.to profile" title="My dev.to profile"/>
-          </a>
-          <a href="https://twitter.com/thomasbnt_" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
-          </a>
-       </div>
-       <details>
-          <summary>PGP Security for email</summary>
-          <ul>
-             <li>
-               <code>contact+github[/at]thomasbnt[dot]fr</code>
-             </li>
-             <li>
-               <a href="https://thomasbnt.dev/keys/publickey_contact%40thomasbnt_fr.asc" download>PGP Key : 0x3430B1D7</a>
-             </li>
-          </ul>
-       </details>
+</div>
+
+<a href="https://astro.badg.es/contributor/thomasbnt/" align="right">
+<img src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="@thomasbnt Astro contributions" width="260" height="156">
+</a>
+       
+<div>
+ <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
+   <img src="https://img.shields.io/badge/My%20website-%237A3C3C.svg?&style=for-the-badge" alt="My website" title="My website"/>
+ </a>
+  <a href="https://www.linkedin.com/in/thomasbnt/" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" title="My LinkedIn"/>
+ </a>
+ <a href="https://www.polywork.com/thomasbnt" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Polywork-%2340BE88.svg?&style=for-the-badge&logo=polyworkn&logoColor=white" alt="My Polywork" title="My Polywork"/>
+ </a>
+ <a href="mailto:contact+github+from+readme@thomasbnt.fr" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Send%20me%20a%20email-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact me via e-mail" title="Contact me via e-mail"/>
+ </a>
+ <a href="https://dev.to/thomasbnt" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto" alt="My dev.to profile" title="My dev.to profile"/>
+ </a>
+ <a href="https://twitter.com/thomasbnt_" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?&logo=Twitter&logoColor=white&style=for-the-badge" alt="My Twitter profile" alt="My Twitter profile"/>
+ </a>
+</div>
+<details>
+ <summary>PGP Security for email</summary>
+ <ul>
+    <li>
+      <code>contact+github[/at]thomasbnt[dot]fr</code>
+    </li>
+    <li>
+      <a href="https://thomasbnt.dev/keys/publickey_contact%40thomasbnt_fr.asc" download>PGP Key : 0x3430B1D7</a>
+    </li>
+ </ul>
+</details>
 
 
 ## 💻 — Skills and Tools
