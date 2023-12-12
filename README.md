@@ -11,7 +11,7 @@
       <h1>Hello friend, I'm <a href="https://thomasbnt.dev" target="_blank" rel="noopener noreferrer">Thomas</a> !</h1>
       <p>I'm a <strong>french developer</strong> mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on <strong><a href="https://dev.to/thomasbnt">DEV</a></strong>, huge <strong>fan of this community</strong>, and <strong>I'm a mod of some cools #tags</strong>, and I’m learning how to write better English and <strong>Nuxt</strong>. ☕</p>
       <ul>
-          <li>Today, I work in my free time on <a href="https://mrrobot.app">Mr. Robøt <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/mrrobot.png" alt="Mr. Robot logo"/></a>, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
+          <li>Today, I work in my free time on <a href="https://mrrobot.app">Mr. Robøt</a>, a French Discord bot for automated moderating that removes insults. I maintain it since 2017.</li>
           <li>Really loved the Web Monetization, then <a href="https://github.com/thomasbnt/awesome-web-monetization">Awesome Web Monetization</a> is out! You can see modules/packages, documentations, links and more about that !</li>
           <li>I also created the project named <a href="https://gate.thomasbnt.dev/">Gate</a>, this is a web page with simple shortcuts.</li>
           <li>Occasionally, I help to Open Source projects on French translations like on <a href="https://astro.badg.es/contributor/thomasbnt/">Astro docs</a>.</li> 
