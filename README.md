@@ -58,7 +58,7 @@
 
 ## 💻 — Skills and Tools
 
-![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vue,vite,express,netlify,mysql,mongodb,prisma,docker,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=11)
+![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vue,vite,astro,express,netlify,mysql,mongodb,prisma,docker,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=13)
 
 ##   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
