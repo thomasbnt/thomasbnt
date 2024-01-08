@@ -57,13 +57,13 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
 ##   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your challenge of this month?](https://dev.to/thomasbnt/what-is-your-challenge-of-this-month-24kd)
 - [2024, me voilà ! 🤩](https://dev.to/thomasbnt/2024-me-voila--45ec)
 - [🕺🏼 My life update and the Open Source #DEVImpact2023](https://dev.to/thomasbnt/my-life-update-and-the-open-source-devimpact2023-41h1)
 - [Publishing documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691)
 - [I contributed in October 2023](https://dev.to/thomasbnt/i-contributed-in-october-2023-24lh)
 - [Share us your project for Hacktoberfest 2023!](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2023-3phg)
 - [Create your nuxt v3 website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
-- [World Wide Web](https://dev.to/thomasbnt/world-wide-web-2jbl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 — Awesome cool Gist stuff
