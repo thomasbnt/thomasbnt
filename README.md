@@ -53,13 +53,11 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
  </ul>
 </details>
 
-
-
 ## 💻 — Skills and Tools
 
 ![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vue,vite,astro,express,netlify,mysql,mongodb,prisma,docker,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=13)
 
-##   📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
+## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
 - [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
