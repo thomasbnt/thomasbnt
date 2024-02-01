@@ -8,7 +8,9 @@
 
 # Hello friend, I'm [Thomas](https://thomasbnt.dev) !
 
-I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge <strong>fan of this community</strong>, and **I'm a mod of some cools #tags**, and I’m learning how to write better English and **Nuxt**. ☕
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=thomasbnt&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=7A3C3C&icon_color=7A3C3C&text_color=0A0209&border_color=fff&border_radius=5" height=180>
+
+I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, I'm actually volunteer mod since 2019. ☕
 
 - Today, I work in my free time on [Mr. Robøt](https://mrrobot.app), a French Discord bot for automated moderating that removes insults. I maintain it since 2017.
 - Occasionally, I help to Open Source projects on French translations like on [Astro docs](https://astro.badg.es/contributor/thomasbnt/)
