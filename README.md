@@ -17,7 +17,6 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
 - Today, I work in my free time on [Mr. Robøt](https://mrrobot.app), a French Discord bot for automated moderating that removes insults. I maintain it since 2017.
 - Occasionally, I help to Open Source projects on French translations like on [Astro docs](https://astro.badg.es/contributor/thomasbnt/)
 - Really loved the Web Monetization, then [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) is out! You can see modules/packages, documentations, links and more about that !
-- I also created the project named [Gate](https://gate.thomasbnt.dev/), this is a web page with simple shortcuts.
 
 <div>
  <a href="https://thomasbnt.dev" target="_blank" rel="noopener">
