@@ -8,7 +8,9 @@
 
 # Hello friend, I'm [Thomas](https://thomasbnt.dev) ! 👋
 
-<img align='right' src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="Astro contributions" title="Astro contributions" height=180>
+<a href="https://astro.badg.es/contributor/thomasbnt/" target="_blank" rel="noopener">
+  <img align='right' src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="Astro contributions" title="Astro contributions" height=180>
+</a>
 
 I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, I'm actually volunteer mod since 2019. ☕
 
