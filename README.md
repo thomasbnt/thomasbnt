@@ -64,6 +64,10 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
 - [Publishing documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691)
 <!-- BLOG-POST-LIST:END -->
 
+# 📚 — Latests posts from [my blog](https://thomasbnt.dev/blog)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 🌟 — Awesome cool Gist stuff
 
 - [My `.bash_aliases`](https://gist.github.com/thomasbnt/93e025d5a6437b3f9a0b1b0b9779e19b)

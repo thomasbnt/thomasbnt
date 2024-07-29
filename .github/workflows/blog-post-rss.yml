@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  actions: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update my repo's README with my latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in website posts
+        uses: gautamkrishnar/blog-post-workflow@v2
+        with:
+          feed_list: "https://thomasbnt.dev/rss.xml"
+          max_post_count: 5
+          committer_email: "admin+ghactions@thomasbnt.fr"
+          committer_username: "thomasbnt"
+          commit_message: "New blog post on my personal website"
