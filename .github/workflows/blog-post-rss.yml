@@ -1,20 +1,17 @@
-name: Blog Thomasbnt.dev RSS
+name: Blog feed RSS
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 * * * *' # Runs midnight, on every sunday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  actions: write
 
 jobs:
   update-readme-with-blog:
-    name: Update my repo's README with my latest blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in website posts
+        uses: actions/checkout@v2
+      - name: Pull in latest blog post from RSS feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://thomasbnt.dev/rss.xml"
-          max_post_count: 5
