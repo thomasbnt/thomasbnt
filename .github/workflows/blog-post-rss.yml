@@ -18,6 +18,4 @@ jobs:
         with:
           feed_list: "https://thomasbnt.dev/rss.xml"
           max_post_count: 5
-          committer_email: "admin+ghactions@thomasbnt.fr"
-          committer_username: "thomasbnt"
           commit_message: "New blog post on my personal website"
