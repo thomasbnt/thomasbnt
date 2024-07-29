@@ -55,11 +55,13 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
-- [Intégrer Strapi sur Nuxt](https://thomasbnt.dev/blog/integrer-strapi-sur-nuxt)
-- [Publier une documentation avec Astro Starlight](https://thomasbnt.dev/blog/publier-une-documentation-avec-astro-starlight)
-- [Nouveau design pour 2023](https://thomasbnt.dev/blog/nouveau-design-2023)
-- [Créer son site web sous Nuxt v3 et Netlify](https://thomasbnt.dev/blog/creer-un-site-web-avec-nuxt-et-netlify)
-- [Créer un robot Discord avec les Slash Commands](https://thomasbnt.dev/blog/creer-un-robot-discord-avec-les-slash-commands)
+- [How I created a simple cross-multiplication for entrepreneurs](https://dev.to/conceptweb/how-i-created-a-simple-cross-multiplication-for-entrepreneurs-435l)
+- [Time to share your RSS feeds 🙌❤️](https://dev.to/thomasbnt/time-to-share-your-rss-feeds-4f28)
+- [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
+- [What is your challenge of this month?](https://dev.to/thomasbnt/what-is-your-challenge-of-this-month-24kd)
+- [2024, me voilà ! 🤩](https://dev.to/thomasbnt/2024-me-voila--45ec)
+- [🕺🏼 My life update and the Open Source #DEVImpact2023](https://dev.to/thomasbnt/my-life-update-and-the-open-source-devimpact2023-41h1)
+- [Publishing documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691)
 <!-- BLOG-POST-LIST:END -->
 
 You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
