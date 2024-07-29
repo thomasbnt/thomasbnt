@@ -62,9 +62,7 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
 - [Créer un robot Discord avec les Slash Commands](https://thomasbnt.dev/blog/creer-un-robot-discord-avec-les-slash-commands)
 <!-- BLOG-POST-LIST:END -->
 
-# 📚 — Latests posts from [my blog](https://thomasbnt.dev/blog)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
 
 ### 🌟 — Awesome cool Gist stuff
 
