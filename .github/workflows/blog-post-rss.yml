@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in website posts
-        uses: gautamkrishnar/blog-post-workflow@v2
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://thomasbnt.dev/rss.xml"
           max_post_count: 5
