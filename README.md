@@ -50,7 +50,7 @@ I'm a **french developer** mainly but touches everything, servers, bots, communi
 
 ## 💻 — Skills and Tools
 
-![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,nuxtjs,vue,vite,astro,express,netlify,mysql,mongodb,prisma,docker,bots,raspberrypi,linux,bash,git,idea,vscode,figma&theme=light&perline=13)
+![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,wordpress,nodejs,yarn,npm,pnpm,nuxtjs,vue,vite,astro,express,netlify,cloudflare,mysql,mongodb,postgres,prisma,docker,bots,discord,discordjs,raspberrypi,linux,bash,git,githubactions,idea,webstorm,vscode,figma&theme=light&perline=13)
 
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
