@@ -12,7 +12,7 @@
   <img align='right' src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="Astro contributions" title="Astro contributions" height=180>
 </a>
 
-I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, I'm actually volunteer mod since 2019. ☕
+<samp>I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, I'm actually volunteer mod since 2019. ☕</samp>
 
 - Today, I work in my free time on [Mr. Robøt](https://mrrobot.app), a French Discord bot for automated moderating that removes insults. I maintain it since 2017.
 - I help to Open Source projects on French translations like on [Astro docs](https://astro.badg.es/contributor/thomasbnt/)
