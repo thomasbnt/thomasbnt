@@ -55,13 +55,13 @@
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your BEST playlist music for work? 🎶](https://dev.to/thomasbnt/what-is-your-best-playlist-music-for-work-1olb)
 - [What&#39;s your favorite book on web development? 📖](https://dev.to/thomasbnt/whats-your-favorite-book-on-web-development-33nl)
 - [How to use Prisma Postgres 🚀](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519)
 - [Another year, another contributions 🎃](https://dev.to/thomasbnt/another-year-another-contributions-371i)
 - [Share us your project for Hacktoberfest 2024! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2024-ppj)
 - [Quickly index these web pages with IndexNow](https://dev.to/thomasbnt/quickly-index-these-web-pages-with-indexnow-2i9i)
 - [How I created a simple cross-multiplication for entrepreneurs](https://dev.to/conceptweb/how-i-created-a-simple-cross-multiplication-for-entrepreneurs-435l)
-- [Time to share your RSS feeds 🙌❤️](https://dev.to/thomasbnt/time-to-share-your-rss-feeds-4f28)
 <!-- BLOG-POST-LIST:END -->
 
 You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
