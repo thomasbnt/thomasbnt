@@ -58,13 +58,13 @@
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy new year! 🥳✨](https://dev.to/thomasbnt/happy-new-year-50fj)
 - [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
 - [Interesting post about History API](https://dev.to/thomasbnt/interesting-post-about-history-api-184)
 - [Ooh cool, another CSS challenge! 🥳✨](https://dev.to/thomasbnt/ooh-cool-another-css-challenge-12lm)
 - [What is your BEST playlist music for work? 🎶](https://dev.to/thomasbnt/what-is-your-best-playlist-music-for-work-1olb)
 - [What&#39;s your favorite book on web development? 📖](https://dev.to/thomasbnt/whats-your-favorite-book-on-web-development-33nl)
 - [How to use Prisma Postgres 🚀](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519)
-- [Another year, another contributions 🎃](https://dev.to/thomasbnt/another-year-another-contributions-371i)
 <!-- BLOG-POST-LIST:END -->
 
 You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
