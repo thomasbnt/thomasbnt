@@ -58,13 +58,13 @@
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [I tested Arc Browser](https://dev.to/thomasbnt/i-tested-arc-browser-ajk)
+- [Regex!](https://dev.to/thomasbnt/regex-3nd)
 - [How to clean your virtual server &lpar;VPS&rpar;](https://dev.to/thomasbnt/how-to-clean-your-virtual-server-vps-4pbl)
 - [2025, me voilà ! 🥳](https://dev.to/thomasbnt/2025-me-voila--2p2d)
 - [Happy new year! 🥳✨](https://dev.to/thomasbnt/happy-new-year-50fj)
 - [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
 - [Interesting post about History API](https://dev.to/thomasbnt/interesting-post-about-history-api-184)
-- [Ooh cool, another CSS challenge! 🥳✨](https://dev.to/thomasbnt/ooh-cool-another-css-challenge-12lm)
-- [What is your BEST playlist music for work? 🎶](https://dev.to/thomasbnt/what-is-your-best-playlist-music-for-work-1olb)
 <!-- BLOG-POST-LIST:END -->
 
 You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
