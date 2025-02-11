@@ -8,8 +8,10 @@
 
 # Hello friend, I'm [Thomas](https://thomasbnt.dev) ! 👋
 
+<!--
 > [!IMPORTANT]
 > Je suis ouvert à de nouvelles opportunités, allant du backend au frontend et je m'adapte rapidement. Si vous pensez que je peux contribuer à votre entreprise ou projet, n'hésitez pas à me contacter sur [Bluesky](https://bsky.app/profile/thomasbnt.dev), [LinkedIn](https://www.linkedin.com/in/thomasbnt/) ou par [Email](mailto:contact@thomasbnt.fr?subject=Opportunité).
+-->
 
 <a href="https://astro.badg.es/contributor/thomasbnt/" target="_blank" rel="noopener">
   <img align='right' src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="Astro contributions" title="Astro contributions" height=180>
