@@ -60,13 +60,13 @@
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Best tips to learn music?](https://dev.to/thomasbnt/best-tips-to-learn-music-4e36)
+- [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2kjj)
 - [Why choose DuckDuckGo as a search engine?](https://dev.to/thomasbnt/why-choose-duckduckgo-as-a-search-engine-3mn8)
 - [WeCoded is back!](https://dev.to/thomasbnt/-2jh6)
 - [Have you tested Arc Browser?](https://dev.to/thomasbnt/have-you-tested-arc-browser-3d6a)
 - [I tested Arc Browser](https://dev.to/thomasbnt/i-tested-arc-browser-ajk)
 - [How to clean your virtual server &lpar;VPS&rpar;](https://dev.to/thomasbnt/how-to-clean-your-virtual-server-vps-4pbl)
-- [2025, me voilà ! 🥳](https://dev.to/thomasbnt/2025-me-voila--2p2d)
-- [Happy new year! 🥳✨](https://dev.to/thomasbnt/happy-new-year-50fj)
 <!-- BLOG-POST-LIST:END -->
 
 You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
