@@ -60,7 +60,7 @@
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean up Docker images that are taking up space](https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-7mk)
+- [RES, my personal safeguard against AI](https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8)
 - [Acronyms and Jargon in Development and Open Source](https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9)
 - [Which AI should you choose in 2026? Claude, Perplexity, Gemini, or ChatGPT](https://dev.to/thomasbnt/which-ai-should-you-choose-in-2026-claude-perplexity-gemini-or-chatgpt-5bd9)
 - [My summary of 2025 as an IAM consultant and non-web developer](https://dev.to/thomasbnt/my-summary-of-2025-as-an-iam-consultant-and-non-web-developer-58kc)
