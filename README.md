@@ -60,13 +60,13 @@
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
 - [Clean up Docker images that are taking up space](https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-2oem)
 - [RES, my personal safeguard against AI](https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8)
 - [Acronyms and Jargon in Development and Open Source](https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9)
 - [Which AI should you choose in 2026? Claude, Perplexity, Gemini, or ChatGPT](https://dev.to/thomasbnt/which-ai-should-you-choose-in-2026-claude-perplexity-gemini-or-chatgpt-5bd9)
 - [My summary of 2025 as an IAM consultant and non-web developer](https://dev.to/thomasbnt/my-summary-of-2025-as-an-iam-consultant-and-non-web-developer-58kc)
 - [Share us your project for Hacktoberfest 2025! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2)
-- [Best tips to learn music?](https://dev.to/thomasbnt/best-tips-to-learn-music-4e36)
 <!-- BLOG-POST-LIST:END -->
 
 You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
