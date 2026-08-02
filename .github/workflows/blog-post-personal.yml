@@ -1,0 +1,21 @@
+name: Latest blog post personal
+on:
+  schedule: # Run workflow automatically
+    - cron: '30 6 */3 * *' # Runs every 3 days at 6:30 AM (offset from the dev.to job at 6:00 to avoid a git push race)
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest personal blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in thomasbnt.dev posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: New personal blog post
+          committer_email: admin+ghactions@thomasbnt.fr
+          feed_list: "https://thomasbnt.dev/rss.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST-PERSONAL"
