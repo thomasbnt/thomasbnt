@@ -55,7 +55,9 @@
 
 ## 💻 — Skills and Tools
 
-![My skills and tools](https://skillicons.dev/icons?i=js,html,css,sass,wordpress,nodejs,yarn,npm,pnpm,nuxtjs,vue,vite,astro,express,netlify,cloudflare,mysql,mongodb,postgres,prisma,docker,bots,discord,discordjs,raspberrypi,linux,bash,git,githubactions,idea,webstorm,vscode,figma&theme=light&perline=13)
+![My skills and tools](https://skillicons.dev/icons?i=js,ts,html,css,sass,md,wordpress,nodejs,yarn,npm,pnpm,vue,vuetify,materialui,nuxtjs,astro,vite,express,adonis,netlify,cloudflare,workers,azure,mysql,mongodb,postgres,prisma,docker,debian,ubuntu,linux,bash,powershell,git,githubactions,idea,webstorm,vscode,figma,bots,discord,discordjs,devto,notion,raspberrypi,ableton&theme=light&perline=12)
+
+_and more_
 
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
@@ -69,7 +71,15 @@
 - [Share us your project for Hacktoberfest 2025! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2)
 <!-- BLOG-POST-LIST:END -->
 
-You have also my [personal blog](https://thomasbnt.dev/blog) with more articles and tutorials in **French language**.
+## 📖 — Latest articles from [my personal blog](https://thomasbnt.dev/blog) (in **French language** 🇫🇷)
+
+<!-- BLOG-POST-LIST-PERSONAL:START -->
+- [9 ans à maintenir un robot Discord : anecdotes, difficultés et leçons apprises](https://thomasbnt.dev/blog/9-ans-maintenir-robot-discord/)
+- [Passkeys expliquées simplement](https://thomasbnt.dev/blog/passkeys-expliquees-simplement/)
+- [RES, mon garde-fou personnel face à l'IA](https://thomasbnt.dev/blog/mot-cle-debut-reponse-ia/)
+- [L'ennui des navigateurs et moteurs de recherche](https://thomasbnt.dev/blog/le-probleme-des-navigateurs-et-moteurs-de-recherche/)
+- [Nettoyer les images Docker qui prennent de la place](https://thomasbnt.dev/blog/nettoyer-images-docker-disque-dur-plein/)
+<!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### 🌟 — Awesome cool Gist stuff
 
