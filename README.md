@@ -74,11 +74,11 @@ _and more_
 ## 📖 — Latest articles from [my personal blog](https://thomasbnt.dev/blog) (in **French language** 🇫🇷)
 
 <!-- BLOG-POST-LIST-PERSONAL:START -->
+- [Perspective API](https://thomasbnt.dev/blog/perspectiveapi/)
 - [9 ans à maintenir un robot Discord : anecdotes, difficultés et leçons apprises](https://thomasbnt.dev/blog/9-ans-maintenir-robot-discord/)
 - [Passkeys expliquées simplement](https://thomasbnt.dev/blog/passkeys-expliquees-simplement/)
-- [RES, mon garde-fou personnel face à l'IA](https://thomasbnt.dev/blog/mot-cle-debut-reponse-ia/)
-- [L'ennui des navigateurs et moteurs de recherche](https://thomasbnt.dev/blog/le-probleme-des-navigateurs-et-moteurs-de-recherche/)
-- [Nettoyer les images Docker qui prennent de la place](https://thomasbnt.dev/blog/nettoyer-images-docker-disque-dur-plein/)
+- [Créer un robot Discord avec les Slash Commands](https://thomasbnt.dev/blog/creer-un-robot-discord-avec-les-slash-commands/)
+- [RES, mon garde-fou personnel face à l&#39;IA](https://thomasbnt.dev/blog/mot-cle-debut-reponse-ia/)
 <!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### 🌟 — Awesome cool Gist stuff
