@@ -73,11 +73,11 @@ _and more_
 ## 📖 — Latest articles from [my personal blog](https://thomasbnt.dev/blog) (in **French language** 🇫🇷)
 
 <!-- BLOG-POST-LIST-PERSONAL:START -->
+- [Comment créer son propre blog personnel avec Astro](https://thomasbnt.dev/blog/comment-creer-son-blog-personnel-avec-astro/)
 - [9 ans à maintenir un robot Discord : anecdotes, difficultés et leçons apprises](https://thomasbnt.dev/blog/9-ans-maintenir-robot-discord/)
 - [Passkeys expliquées simplement](https://thomasbnt.dev/blog/passkeys-expliquees-simplement/)
 - [Créer un robot Discord avec les Slash Commands](https://thomasbnt.dev/blog/creer-un-robot-discord-avec-les-slash-commands/)
 - [RES, mon garde-fou personnel face à l&#39;IA](https://thomasbnt.dev/blog/mot-cle-debut-reponse-ia/)
-- [L&#39;ennui des navigateurs et moteurs de recherche](https://thomasbnt.dev/blog/le-probleme-des-navigateurs-et-moteurs-de-recherche/)
 <!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### 🌟 — Awesome cool Gist stuff
