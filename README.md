@@ -73,11 +73,11 @@ _and more_
 ## 📖 — Latest articles from [my personal blog](https://thomasbnt.dev/blog) (in **French language** 🇫🇷)
 
 <!-- BLOG-POST-LIST-PERSONAL:START -->
+- [Intégrer les composants SEO sur Discord](https://thomasbnt.dev/blog/component-embeds-discord-seo/)
 - [Créer un robot Discord avec les Slash Commands](https://thomasbnt.dev/blog/creer-un-robot-discord-avec-les-slash-commands/)
 - [Les Progressive Web App &lpar;PWA&rpar;](https://thomasbnt.dev/blog/les-progressive-web-app-pwa/)
 - [C&#39;est quoi l&#39;IAM ?](https://thomasbnt.dev/blog/c-est-quoi-l-iam/)
 - [Quelques tips pour améliorer son SEO](https://thomasbnt.dev/blog/quelques-tips-pour-ameliorer-son-seo/)
-- [Comment créer son propre blog personnel avec Astro](https://thomasbnt.dev/blog/comment-creer-son-blog-personnel-avec-astro/)
 <!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### 🌟 — Awesome cool Gist stuff
