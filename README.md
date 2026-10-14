@@ -61,13 +61,13 @@ _and more_
 ## 📝 — Latests posts from [my DEV profile](https://dev.to/thomasbnt)
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating SEO Components into Discord](https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g)
 - [Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/thomasbnt/progressive-web-apps-pwas-237d)
 - [A Few Tips for Improving Your SEO](https://dev.to/thomasbnt/a-few-tips-for-improving-your-seo-5df3)
 - [How to Create Your Own Personal Blog with Astro](https://dev.to/thomasbnt/how-to-create-your-own-personal-blog-with-astro-5d7h)
 - [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
 - [Clean up Docker images that are taking up space](https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-2oem)
 - [RES, my personal safeguard against AI](https://dev.to/thomasbnt/res-my-personal-safeguard-against-ai-3ja8)
-- [Acronyms and Jargon in Development and Open Source](https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📖 — Latest articles from [my personal blog](https://thomasbnt.dev/blog) (in **French language** 🇫🇷)
