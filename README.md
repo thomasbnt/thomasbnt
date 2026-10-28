@@ -73,11 +73,11 @@ _and more_
 ## 📖 — Latest articles from [my personal blog](https://thomasbnt.dev/blog) (in **French language** 🇫🇷)
 
 <!-- BLOG-POST-LIST-PERSONAL:START -->
+- [Installer WSL2 sur Windows 11](https://thomasbnt.dev/blog/installer-wsl2-sur-windows-11/)
 - [Participer au Hacktoberfest](https://thomasbnt.dev/blog/participer-au-hacktoberfest/)
 - [Tout le monde peut commit en votre nom](https://thomasbnt.dev/blog/tout-le-monde-peut-commit-en-votre-nom/)
 - [Intégrer les composants SEO sur Discord](https://thomasbnt.dev/blog/component-embeds-discord-seo/)
 - [Créer un robot Discord avec les Slash Commands](https://thomasbnt.dev/blog/creer-un-robot-discord-avec-les-slash-commands/)
-- [Les Progressive Web App &lpar;PWA&rpar;](https://thomasbnt.dev/blog/les-progressive-web-app-pwa/)
 <!-- BLOG-POST-LIST-PERSONAL:END -->
 
 ### 🌟 — Awesome cool Gist stuff
