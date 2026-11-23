@@ -17,7 +17,7 @@
   <img align='right' src="https://astro.badg.es/v2/contributor/thomasbnt.svg" alt="Astro contributions" title="Astro contributions" height=180>
 </a>
 
-<samp>I'm a **french developer** mainly but touches everything, servers, bots, community management, events, social networks and moore. Currently **IAM Consultant** at [@ariovis-fr](https://github.com/ariovis-fr). I mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, I'm actually volunteer mod since 2019. ☕</samp>
+<samp>I'm a **French developer** mainly but touch everything: servers, bots, community management, events, social networks and more. Formerly **IAM Consultant** at [@ariovis-fr](https://github.com/ariovis-fr). I'm mostly on **[DEV](https://dev.to/thomasbnt)**, huge **fan of this community**, I'm volunteer mod since 2019. ☕</samp>
 
 - Today, I work in my free time on [Mr. Robøt](https://mrrobot.app), a French Discord bot for automated moderating that removes insults. I maintain it since 2017.
 - I'm a contributor since August 2022, and maintainer since December 2024 of [Astro docs](https://astro.badg.es/contributor/thomasbnt/)
@@ -94,3 +94,4 @@ _and more_
 [![@Thomasbnt's Holopin board](https://holopin.io/api/user/board?user=thomasbnt)](https://holopin.io/@thomasbnt)
 
 ![](https://hit.yhype.me/github/profile?user_id=14293805)
+
